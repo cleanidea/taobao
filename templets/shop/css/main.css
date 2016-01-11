@@ -86,3 +86,17 @@
 .copyright{height:20px;}
 .link{width:600px; height:46px; margin:34px auto 0;}
 .link>img{margin:0 7px 0 9px;}
+
+
+
+/*Bootstrap*/
+/* 参考bootstrap.css精简后 导航条固定在顶部 */
+.navbar-fixed-top{
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  z-index: 1030;
+  border-width: 0 0 1px
+}
+
