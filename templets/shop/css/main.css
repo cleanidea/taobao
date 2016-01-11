@@ -27,7 +27,7 @@
 .shop_cart_num{width:38px; font:14px/35px "Microsoft YaHei UI", "微软雅黑"; color:#FFF; border-left:1px solid #FF9C01; padding-left:18px; background:url(../images/icon/shop_cart_num.jpg) 31px 11px no-repeat;}
 
 /*header bottom_bar*/
-.bottom_bar{height:35px; background-color:#CD7327; /*background-color:#1369C0; background:url(../images/menu_bg.jpg) left center repeat;*/}
+.bottom_bar{height:35px; /*background-color:#CD7327;*/ background-color:#1369C0; background:url(../images/menu_bg.jpg) left center repeat;}
 .all_pros{width:125px; font:16px/35px "Microsoft YaHei UI", "微软雅黑"; color:#FFF; padding-left:64px; background:url(../images/icon/all_pros.jpg) 143px 15px no-repeat;}
 .section ul li{width:80px; font:14px/35px "Microsoft YaHei UI", "微软雅黑"; float:left; text-align:center;}
 .section ul li:hover{background-color:#E19C37;}
